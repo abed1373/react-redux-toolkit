@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-toolkit/static/css/main.4cb69276.css",
+    "main.js": "/react-redux-toolkit/static/js/main.b60ba031.js",
+    "static/js/787.ad54c5bd.chunk.js": "/react-redux-toolkit/static/js/787.ad54c5bd.chunk.js",
+    "index.html": "/react-redux-toolkit/index.html",
+    "main.4cb69276.css.map": "/react-redux-toolkit/static/css/main.4cb69276.css.map",
+    "main.b60ba031.js.map": "/react-redux-toolkit/static/js/main.b60ba031.js.map",
+    "787.ad54c5bd.chunk.js.map": "/react-redux-toolkit/static/js/787.ad54c5bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb69276.css",
+    "static/js/main.b60ba031.js"
+  ]
+}
